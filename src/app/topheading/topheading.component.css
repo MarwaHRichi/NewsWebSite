@@ -1,0 +1,9 @@
+.box{
+  padding: 10px 10px;
+  background-color: rgb(200, 217, 230);
+}
+.box h6{
+  font-size: 16px;
+  color: black;
+  font-weight: bold;
+}
